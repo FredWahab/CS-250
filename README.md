@@ -1,4 +1,4 @@
-# CS250-Portfolio
+# CS-250
 Work done for CS-250 Software Development Lifecycle.
 Southern New Hampshire University
 
