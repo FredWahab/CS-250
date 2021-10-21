@@ -8,4 +8,4 @@ Interpreting the user needs is the primary responsibility of the Product Owner. 
 **2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**</br>
 First, review the user stories related to the component to get an idea of what the user expects. If possible, communicate directly with the user to answer any questions I may have about the functionality of the componet. Design a flow chart and/or pseudocode for the proposed component to share with the team. Build the project with all resources available. Agile processes that I hope to incorperate are the customer centric focus and short incremental deliverables to ensure the customer is getting the product as quickly as possible.</br>
 **3. What does it mean to be a good team member in software development?**</br>
-the last stuff here.</br>
+Being a good team member in software development means staying in constant commuication with your fellow team members, reaching out for help or offering it when needed, and leaving the ego at the door to focus entirely on what is the best way to acomplish the team goals. </br>
